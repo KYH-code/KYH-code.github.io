@@ -4,7 +4,7 @@
 
 ## Welcome!
 
-Welcome to my GitHub portfolio! I'm [Your Name], a [Your Job Title] with a passion for [Your Interests/Field]. This repository showcases my projects, skills, and experiences. Feel free to explore and reach out if you have any questions or collaboration ideas.
+24학년도 1학기 웹스크립트프로그래밍 학기말 과제 - 개인 홈페이지 만들기
 
 ## About Me
 
@@ -15,48 +15,99 @@ Welcome to my GitHub portfolio! I'm [Your Name], a [Your Job Title] with a passi
 
 ## Skills
 
-- **Programming Languages**: [List of Languages]
-- **Frameworks & Libraries**: [List of Frameworks/Libraries]
-- **Tools & Technologies**: [List of Tools/Technologies]
-- **Other Skills**: [List of Other Relevant Skills]
+- **Programming Languages**: 
+    - HTML
+    - CSS
+    - JavaScript
+    - TypeScript
+    - C
+    - Java
+    - Dart
+    - Python
+- **Frameworks & Libraries**: 
+    - React.js
+    - Flutter
+    - JSP
+- **Tools & Technologies**: 
+    - Visual Studio
+    - Visual Studio Code
+    - Adobe XD
+    - Figma
+    - JetBrain
+    - IntelliJ IDEA
+    - Android Studio
+    - MySQL
+    - Oracel
+    - MariaDB
+    - Appwrite
+- **Other Skills**: 
+    - PowerPoint
 
 ## Projects
 
-### [Project 1 Title]
-- **Description**: A brief description of the project, what it does, and its purpose.
-- **Technologies Used**: [Technologies]
+### 개인 홈페이지
+- **Description**: 2024학년도 1학기 웹스크립트프로그래밍 학기말 과제로 간단한 자기 소개와 사용하는 스킬들, 진행한 프로젝트 그리고 희망 직무 등을 소개함
+- **Technologies Used**: 
+    - HTML
+    - CSS
+    - JavaScript
+- **Repository**: [\[Click To Move\]](https://github.com/KYH-code/KYH-code.github.io)
+- **Live Demo**: -
+
+### (이름 미정) - 진행 중
+- **Description**: 소셜미디어 애플리케이션(비공개 개발)
+- **Technologies Used**: 
+    - Dart
+    - Flutter
+    - Etc
+- **Repository**: 진행 중(비공개 개발)
+- **Live Demo**: -
+
+### BusanHeng
+- **Description**: 프로그래밍실습 과제, 부산헹 콘솔 게임
+- **Technologies Used**: 
+    - Visual Studio
+    - C
+- **Repository**: [\[Click To Move\]](https://github.com/KYH-code/busanheng2)
+- **Live Demo**: -
+
+### TikTok Clone
+- **Description**: Next.js와 TypeScript, Appwrite등을 사용하여 틱톡 클론코딩
+- **Technologies Used**: 
+    - Visual Studio Code
+    - Next.js
+    - TypeScript
+    - Appwrite
 - **Repository**: [Link to Repository]
 - **Live Demo**: [Link to Live Demo, if available]
 
-### [Project 2 Title]
-- **Description**: A brief description of the project, what it does, and its purpose.
-- **Technologies Used**: [Technologies]
-- **Repository**: [Link to Repository]
-- **Live Demo**: [Link to Live Demo, if available]
+### 포트폴리오 갤러리 - 예정
+- **Description**: 포트폴리오를 공유할 수 있는 갤러리
+- **Technologies Used**: 
+    - Visual Studio Code
+    - React.js
+    - TypeScript
+    - Etc
+- **Repository**: 예정
+- **Live Demo**: 예정
 
-### [Project 3 Title]
-- **Description**: A brief description of the project, what it does, and its purpose.
-- **Technologies Used**: [Technologies]
-- **Repository**: [Link to Repository]
-- **Live Demo**: [Link to Live Demo, if available]
+## Job Objectives
 
-## Experience
-
-- **[Job Title 1] at [Company 1]** *(Month Year - Month Year)*
-  - Brief description of your role and achievements.
-
-- **[Job Title 2] at [Company 2]** *(Month Year - Month Year)*
-  - Brief description of your role and achievements.
+- **CEO at StartUp** *(Month Year - Month Year)*
+  - 2026년도 전까지 앱 개발, 피봇 완료해서 사업자 내고 회사 차리기
 
 ## Education
 
-- **[Degree] in [Field of Study]**
-  - [University Name], [Year of Graduation]
+- **Bachelor's degree in Computer Engineering**
+  - Hannam University, Admission in 2024
 
 ## Contact
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me through [LinkedIn](Your LinkedIn Profile) or send me an email at [Your Email].
+- [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunhyeon._.05/)](https://www.instagram.com/yunhyeon._.05/) 
+- [![Notion Badge](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black&link=https://easy-dodo-bf0.notion.site/KYH-Portfolio-b5d1f9d8d88d4f029c65120123782496)](https://easy-dodo-bf0.notion.site/KYH-Portfolio-b5d1f9d8d88d4f029c65120123782496) 
+- ![Discord Badge](https://img.shields.io/badge/yunhyeon05-5865F2?style=flat-square&logo=discord&logoColor=white) 
+- [![Gmail Badge](https://img.shields.io/badge/kyhofficial05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyhofficial05@gmail.com)
 
 ---
 
-Thank you for visiting my portfolio! I hope you find my work interesting and insightful.
+Thank you for visiting my Homepage! Have a good day
