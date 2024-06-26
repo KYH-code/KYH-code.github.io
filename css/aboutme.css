@@ -1,0 +1,60 @@
+#title {
+
+}
+
+#introCard {
+    margin-top: 8px;
+    display: flex;
+    width: 400px;
+    /* align-items: center;
+    border-radius: 12px;
+    background-color: #f9f9f9; */
+    padding: 20px;
+    color: white;
+    background: linear-gradient(135deg, #9568ff 0%, #ffac68 100%);
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+#cardProfilePic {
+    width: 120px;
+    border-radius: 12px;
+    margin-right: 16px;
+}
+
+
+#introContainer {
+    justify-items: center;
+}
+
+#introContainer > p {
+    font-size: 16px;
+    margin: 4px 0 0 0;
+}
+
+#introContainer > #introName {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#skillContainer {
+    display: flex;
+    margin-top: 8px;
+}
+
+#skillContainer > div {
+    margin-right: 60px;
+}
+
+#skillContainer > div > p {
+    margin-top: 4px;
+    display: flex;
+    align-items: center;
+}
+
+#skillContainer > div > p > img {
+    width: 24px;
+    margin-right: 4px;
+}

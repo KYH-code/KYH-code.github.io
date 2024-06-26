@@ -1,0 +1,30 @@
+#mainContainer {
+  text-align: center;
+  margin-top: 300px;
+}
+
+#textTypingContainer {
+    width: fit-content;
+    font-size: 82px;
+    font-weight: 900;
+    margin-left: 470px;
+}
+
+.blink {
+    animation: blink 0.5s infinite;
+}
+
+@keyframes blink {
+  to {
+    opacity: 0;
+  }
+}
+
+#description {
+  margin-top: 16px;
+  font-size: 16px;
+}
+
+#infoContainer {
+  
+}

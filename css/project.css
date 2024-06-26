@@ -1,0 +1,37 @@
+#projectContainer {
+    margin-top: 8px;
+}
+
+#firstLine {
+    display: flex;
+}
+
+#secondLine {
+    margin-top: 12px;
+    display: flex;
+}
+
+#projectContainer > div > div {
+    height: 200px;
+    width: 480px;
+    background-color: #fafafa;
+    border-radius: 12px;
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+}
+
+#projectContainer > div > div > img {
+    width: 96px;
+    margin-left: 12px;
+}
+
+.icon {
+    width: 16px;
+    margin-left: 4px;
+    margin-right: 8px;
+}
+
+.textArea {
+    margin-left: 8px;
+}
