@@ -52,7 +52,7 @@
     - CSS
     - JavaScript
 - **Repository**: [\[Click To Move\]](https://github.com/KYH-code/KYH-code.github.io)
-- **Live Demo**: -
+- **Live Demo**: [\[Click To Move\]](https://kyh-code.github.io/index.html)
 
 ### (이름 미정) - 진행 중
 - **Description**: 소셜미디어 애플리케이션(비공개 개발)
